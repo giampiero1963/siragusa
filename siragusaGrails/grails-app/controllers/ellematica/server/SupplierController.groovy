@@ -99,4 +99,6 @@ class SupplierController {
             redirect(action: "list")
         }
     }
+	
+	def prova = {}
 }
